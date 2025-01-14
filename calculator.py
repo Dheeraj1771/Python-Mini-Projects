@@ -1,3 +1,4 @@
+# Python Mini Project: A Calculator App
 import tkinter as tk
 
 calculation = ""
