@@ -15,7 +15,7 @@ def evaluate_calculation():
         calculation = str(eval(calculation))
         text_result.delete(1.0, "end")
         text_result.insert(1.0, calculation)
-    except:
+    except Exception:
         clear_field()
         text_result.insert(1.0, "Error")
 
