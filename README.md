@@ -5,3 +5,5 @@
 
 1. Calculator App
    - Description: A simple calculator supporting basic operations.
+2. Rock, Paper, Scissor Game
+   - Description: A command-line game where you can play against the computer.
