@@ -8,3 +8,5 @@
    - Description: A simple calculator supporting basic operations.
 2. Rock, Paper, Scissor Game
    - Description: A command-line game where you can play against the computer.
+3. Mastermind Game
+   - Description: A code-breaking game where you try to guess a secret code.
