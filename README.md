@@ -10,3 +10,5 @@
    - Description: A command-line game where you can play against the computer.
 3. Mastermind Game
    - Description: A code-breaking game where you try to guess a secret code.
+4. Cows and Bulls Game
+   - Description: A word-guessing game where you try to guess a secret word.
