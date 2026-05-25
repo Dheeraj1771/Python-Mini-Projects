@@ -1,3 +1,17 @@
+# The Rock, Paper and Scissor Game
+"""
+Rock-Paper-Scissors: A Command-Line Game of Chance
+
+Rules:
+1. The user gets the first turn to choose between Rock, Paper, or Scissors.
+2. The computer randomly selects its option from the remaining two choices.
+3. The winner is determined based on the following matchups:
+   * Rock vs Paper     -> Paper wins
+   * Rock vs Scissor   -> Rock wins
+   * Paper vs Scissor  -> Scissor wins
+"""
+
+
 import random
 
 print("Welcome to Rock, Paper, Scissor Game!")
