@@ -1,3 +1,16 @@
+# The MasterMind Game
+"""
+Mastermind: A Turn-Based Competitive Code-Breaking Game
+
+Rules:
+1. Player 1 sets a secret multi-digit number.
+2. Player 2 guesses the number. Player 1 provides hints on correct digits.
+3. Player 2 continues guessing until they successfully crack the code.
+4. The roles reverse: Player 2 sets a new number, and Player 1 guesses.
+5. Win Condition: The player who cracks the code in fewer tries wins 
+   the game and is crowned the Mastermind.
+"""
+
 import random
 
 num = random.randint(1000, 9999)
